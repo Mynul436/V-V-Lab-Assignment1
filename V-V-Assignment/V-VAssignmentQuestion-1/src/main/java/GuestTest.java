@@ -17,7 +17,7 @@ class GuestTest {
     @Test
     void getRegistered() {
         Guest guest=new Guest();
-       assertEquals(true,guest.getRegistered("Abid","Sylhet","01308",3));
+       assertEquals(true,guest.getRegistered("Mynul Islam","Madaripur","01766715657",3));
 
     }
 }
