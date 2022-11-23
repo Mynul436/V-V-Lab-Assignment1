@@ -2,7 +2,7 @@ import java.util.ArrayList;
 import java.util.List;
 
 public class Admin {
-    String name="Abid Ahmed";
+    String name="Mynul Islam";
     int id=1;
     static List<Products> productsList=new ArrayList<>();
     List<Products> viewProducts(){
